@@ -169,4 +169,3 @@ casos crescem mais rapidamente.
 - CORMEN, Thomas H.; LEISERSON, Charles E.; RIVEST, Ronald L.; STEIN, Clifford. **Introduction to Algorithms**. 3. ed. MIT Press, 2009.
 - SEDGEWICK, Robert; WAYNE, Kevin. **Algorithms**. 4. ed. Addison-Wesley, 2011.
 - KLEINBERG, Jon; TARDOS, Eva. **Algorithm Design**. Pearson, 2005.
-- Material e discussoes da disciplina de Algoritmos em Grafos.
